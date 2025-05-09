@@ -1,6 +1,6 @@
 ## Técnico em desenvolvimento de Sistemas integrado ao Ensino Médio
 Estágio como diagramador web na Universidade Católica de Qyuixadá
-## Graduação em Deasign Digital (1 semestre)
+## Graduação em Design Digital na UFC (1 semestre)
 
 <!--
 **leosilvadev1/leosilvadev1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
