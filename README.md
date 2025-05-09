@@ -1,4 +1,5 @@
-## Hi there 👋
+## Técnico em desenvolvimento de Sistemas integrado ao Ensino Médio
+Graduação em Deasign Digital (1 semestre)
 
 <!--
 **leosilvadev1/leosilvadev1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
